@@ -1,0 +1,9 @@
+User-agent: Googlebot-news
+Allow: /
+Disallow: /
+
+User-agent: Unnecessarybot
+Disallow: /
+
+User-agent: yahoo-blogs/v3.9
+Disallow:/index.html
