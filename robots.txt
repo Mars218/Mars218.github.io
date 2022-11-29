@@ -2,8 +2,9 @@ User-agent: Googlebot-news
 Allow: /
 Disallow: /
 
-User-agent: Unnecessarybot
+User-agent: ia_archiver
 Disallow: /
 
 User-agent: yahoo-blogs/v3.9
-Disallow:/index.html
+Disallow: /
+Allow: /index.html
